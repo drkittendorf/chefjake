@@ -18,7 +18,7 @@ function App() {
         >
           Learn React and more Jake Williams
         </a>
-        <a>SHOW ME THIS AT LEAST</a>
+        <p>SHOW ME THIS AT LEAST</p>
       </header>
     </div>
   );
