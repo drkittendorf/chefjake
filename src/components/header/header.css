@@ -1,5 +1,6 @@
+ 
 .header {
-    /*FLEX BOX SETTINGS */
+    /*FLEX BOX SETTINGS 
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -9,9 +10,8 @@
     align-self: center;
 }
 
-
 .head {
-    /*FLEX BOX SETTINGS */
+    /*FLEX BOX SETTINGS 
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -20,7 +20,7 @@
     align-content:center;
     align-self: center;
 
-    /* position: fixed; */
+    /* position: fixed; 
     width: 66vw;
     height: 10vh;
     text-align: center;
