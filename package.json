@@ -1,8 +1,8 @@
 {
   "name": "chefjake",
-  "homepage": "https://home-5012184567.app-ionos.space/",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://home-5012184567.app-ionos.space/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
